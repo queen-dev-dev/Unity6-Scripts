@@ -1,5 +1,7 @@
 # Unity6-Scripts
 A place full of Unity 6 scripts that make game development faster.
+I will upload more here gradually as I continue my game development journey.
+The first file here was menuSpawner.cs uploaded on 7th Feb 2026 - 4 days into my Game Development learning.
 
 # menuSpawner.cs
 I made menuSpawner.cs to make dynamic sprite spawning much easier rather than having to hard code it all.
