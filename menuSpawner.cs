@@ -32,7 +32,7 @@ public class menuSpawner : MonoBehaviour
     {
         int currentIndex = 0;
 
-        while (true)
+        while (false)
         {
             SpawnSettings settings = spawnlist[currentIndex];
             GameObject newObj = Instantiate(prefabBase, settings.spawnPos, Quaternion.identity);
